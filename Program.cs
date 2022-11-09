@@ -9,7 +9,8 @@
 
 using System;
 
-// Adding comment to test the author switch
+// Adding comment to test the author switch.
+//Removing the author.
 
 namespace Program
 {
