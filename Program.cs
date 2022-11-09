@@ -14,6 +14,7 @@ namespace Program
     class Program {
         static void Main(string[] args)
         {
+            // Testing gitpair
             Player playerOne = new Player();
             Player playerTwo = new Player();
 
